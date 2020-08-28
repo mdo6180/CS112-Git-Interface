@@ -6,7 +6,9 @@ Since many CS112 students are taking this class in their first semester of colle
 Additionally, they are probably overwhelmed with the adjustment to college life and classes. 
 As such, I would like to enable my students to instantly use version control to track their work in a simple, easy, effective manner; 
 which means no branching and no merging. 
+
 <br>
+
 Currently, there are only 5 options for the students to use:
 1. Initialize the directory as a git repository
 2. Create a new commit
