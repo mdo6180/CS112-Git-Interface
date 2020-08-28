@@ -6,8 +6,6 @@ Since many CS112 students are taking this class in their first semester of colle
 Additionally, they are probably overwhelmed with the adjustment to college life and classes. 
 As such, I would like to enable my students to instantly use version control to track their work in a simple, easy, effective manner.
 
-<br>
-
 ### How to Use the File:
 1. Put `git.py` into your working directory.
 2. Run the command `python3 git.py` if you are using MacOS terminal or `python git.py` if you are using Windows command prompt.
