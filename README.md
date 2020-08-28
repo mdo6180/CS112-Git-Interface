@@ -9,6 +9,6 @@ Therefore, I would like to enable my students to instantly use version control t
 <br>
 
 ### How to Use the File:
-1. Put git.py into your working directory.
-2. Run the command python3 git.py in MacOS terminal or python git.py in Windows command prompt
-3. Initialize the git repository by using option 1
+1. Put `git.py` into your working directory.
+2. Run the command `python3 git.py` if you are using MacOS terminal or `python git.py` if you are using Windows command prompt.
+3. Initialize the git repository by using option `1`
