@@ -16,6 +16,8 @@ Currently, there are only 5 options for the students to use:
 4. Return to the latest commit
 5. Display the git log
 
+<br>
+
 ### How to Use the File:
 1. Put `git.py` into your working directory.
 2. Run the command `python3 git.py` if you are using MacOS terminal or `python git.py` if you are using Windows command prompt.
